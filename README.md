@@ -45,7 +45,8 @@
 <img align="left" alt="Blender" width="26px" src="https://img.icons8.com/bubbles/50/000000/blender-3d.png" style="padding-right:10px"/>
 <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/fluency/48/000000/visual-studio.png" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="26px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" style="padding-right:10px;" />
-<img align="left" alt="Jira" width="26px" src="https://icons8.com/icon/oROcPah5ues6/jira" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="26px" src="![image](https://github.com/zeeshanawnn09/zeeshanawnn09/assets/105692510/4407852f-e297-43cb-a083-fd857110cae1)
+" style="padding-right:10px;" />
 </br>
 </p>
 
