@@ -46,6 +46,8 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/fluency/48/000000/visual-studio.png" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="26px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="26px" src="https://img.icons8.com/color/48/jira.png" style="padding-right:10px;" />
+<img align="left" alt="Adobe Illustrator" width="26px" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" style="padding-right:10px;" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" style="padding-right:10px;" />
 </br>
 </p>
 
