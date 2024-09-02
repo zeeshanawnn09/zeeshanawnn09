@@ -19,7 +19,6 @@
 
 <div align="center">
 
-[![zeeshanawnn09's GitHub | Stats](https://stats.quira.sh/zeeshanawnn09/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zeeshanawnn09)
 
 [![zeeshanawnn09's GitHub | Languages Over Time](https://stats.quira.sh/zeeshanawnn09/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zeeshanawnn09)
 
