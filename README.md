@@ -17,14 +17,6 @@
 
 ## ⚙️GitHub Analytics
 
-<div align="center">
-
-
-[![zeeshanawnn09's GitHub | Languages Over Time](https://stats.quira.sh/zeeshanawnn09/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=zeeshanawnn09)
-
-</div>
-
-
 <p align="center">  
 <a href="https://github.com/zeeshanawnn09">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeeshanawnn09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
