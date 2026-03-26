@@ -13,7 +13,7 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,bootstrap,css,nodejs,unity,unreal,visualstudio,mongodb,mysql,docker,kubernetes,githubactions,azure,ai,ps,blender,figma,bash,discord,kali,eclipse,git,github,linux,stackoverflow,vscode,notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,bootstrap,css,nodejs,unity,unreal,visualstudio,mongodb,mysql,docker,kubernetes,aws,githubactions,azure,ai,ps,blender,figma,bash,discord,kali,eclipse,git,github,linux,stackoverflow,vscode,notion&theme=dark)](https://skillicons.dev)
 
 ## ⚙️GitHub Analytics
 
